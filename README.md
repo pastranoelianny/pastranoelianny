@@ -12,11 +12,13 @@
 
 ## 🚀 Sobre mí
 
-Soy Ingeniero de Sistemas con formación complementaria en **bootcamps**: Desarrollo Frontend y Full Stack JavaScript.
+Soy Ingeniera de Sistemas con formación complementaria en **dos bootcamps**: Desarrollo Frontend y Full Stack JavaScript.
 
 Me apasiona construir interfaces web limpias, responsive y centradas en el usuario, además de implementar la lógica que conecta el frontend con datos y operaciones del lado del servidor.
 
 Mi formación combina el pensamiento estructurado de la ingeniería con experiencia previa en administración de sistemas de información y atención al cliente, lo que me permite traducir necesidades reales en soluciones técnicas.
+
+**🌎 Idiomas:** Español (nativo) · Inglés intermedio (B1)
 
 **🎯 Actualmente:** Construyendo proyectos personales con el objetivo de comenzar mi carrera como **Desarrolladora Full Stack Junior** en modalidad remota o híbrida.
 
